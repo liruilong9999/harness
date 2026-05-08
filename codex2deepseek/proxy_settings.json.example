@@ -1,0 +1,10 @@
+{
+  "deepseek_api_key": "你的key",
+  "default_model": "deepseek-v4-pro",
+  "deepseek_base_url": "https://api.deepseek.com",
+  "local_proxy_token": "local-deepseek-proxy",
+  "model_mapping": {
+    "gpt-5.5": "deepseek-v4-pro",
+    "gpt-5.4": "deepseek-v4-flash", 
+  }
+}
