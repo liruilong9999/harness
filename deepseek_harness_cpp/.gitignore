@@ -1,0 +1,9 @@
+/bin/*
+bin/*
+/*.pro.*
+/build/*
+/*build*/*
+/.vs*
+# Qt Creator
+CMakeLists.txt.user
+/skeleton_base/*
